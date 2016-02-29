@@ -1,0 +1,90 @@
+a h1 {
+    font-family: myFirstFont;
+    font-size: 3em;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    letter-spacing: 5px;
+}
+
+menu.a {
+    color: black;
+}
+
+.menu a:hover {
+    color: grey;
+}
+
+#index div {
+    padding-bottom: 50px;
+}
+
+.menu {
+    background-color: antiquewhite;
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+    z-index: 1000;
+    opacity: 0.8;
+    padding-top: 350px;
+    font-family: myFirstFont !important;
+    font-size: 2em;
+    letter-spacing: 5px;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(planetbe.ttf);
+}
+
+
+/***************************/
+
+
+/******work.html************/
+
+
+/***************************/
+
+#work #myCarousel{
+    padding: 15px;
+
+}
+
+#work #myCarousel img {
+    width: 100vw;
+
+}
+
+#work #portfolio{
+    padding: 15px;
+
+}
+
+#work .bg-antiquewhite{
+    background-color:antiquewhite;
+    padding: 30px;
+    margin: 40px 15px;
+
+}
+#work .bg-brown{
+    background-color:brown;
+    padding: 30px;
+    margin: 40px 15px;
+}
+
+#work .bg-darksalmon{
+    background-color:darksalmon;
+    padding: 30px;
+    margin: 40px 15px;
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+
+
+
