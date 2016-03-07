@@ -99,3 +99,35 @@ div {
     font-family: myFirstFont;
     src: url(planetbe.ttf);
 }
+
+
+
+#myCarousel {
+    padding: 15px;
+}
+
+ #myCarousel img {
+    width: 100vw;
+}
+#portfolio {
+    padding: 15px;
+}
+
+.bg-antiquewhite {
+    background-color: antiquewhite;
+    padding: 30px;
+    margin: 40px 15px;
+}
+.bg-brown {
+    background-color: brown;
+    padding: 30px;
+    margin: 40px 15px;
+}
+
+.bg-darksalmon {
+    background-color: darksalmon;
+    padding: 30px;
+    margin: 40px 15px;
+}
+
+
